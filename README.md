@@ -1,2 +1,2 @@
-# WriteUp
-CTF challenges WriteUp
+# Writeups
+  All my CTF challenges writeups
